@@ -1,0 +1,4 @@
+opencv-python>=4.7.0
+numpy>=1.23
+python-telegram-bot>=20.0
+imutils>=0.5.4
